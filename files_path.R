@@ -1,3 +1,4 @@
+getwd()
 set("F:/RData/Learn")
 getwd()
 list.files()
